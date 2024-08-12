@@ -55,8 +55,4 @@ Goodbye, see you later
 - **Exit Condition**: The chatbot continues to run until the user types `"quit"`, which exits the program.
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
