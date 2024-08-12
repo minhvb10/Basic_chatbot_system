@@ -1,4 +1,4 @@
-# Simple Chatbot
+# Basic Chatbot System
 
 This is a basic chatbot implemented in Python that can interact with users through predefined responses. It's a simple example to demonstrate how a chatbot can handle basic user inputs and provide corresponding replies.
 
