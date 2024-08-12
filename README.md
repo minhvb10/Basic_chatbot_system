@@ -12,21 +12,6 @@ This is a basic chatbot implemented in Python that can interact with users throu
 
 - Python 3.x
 
-## Installation
-
-1. **Clone or Download the Repository**:  
-   Clone the repository using Git or download the ZIP file.
-
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. **Navigate to the Project Directory**:  
-   Change to the directory where the chatbot script is located.
-
-   ```bash
-   cd path/to/chatbot
-   ```
 
 ## Usage
 
